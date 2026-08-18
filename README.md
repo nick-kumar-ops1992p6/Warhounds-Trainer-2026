@@ -7,6 +7,9 @@ Free Warhounds Trainer with support for many cfg files. Auto-updates, no key sys
 <img width="1920" height="1080" alt="123" src="https://github.com/user-attachments/assets/9ce7ec07-c719-4b35-a422-199243326123" />
 
 ---
+### UPD
+🛡️ 18.08 - FIX ANTI-DETECT SYSTEM!
+---
 
 ## || 📖 About 
 
