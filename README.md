@@ -11,6 +11,9 @@ Free Warhounds Trainer with support for many cfg files. Auto-updates, no key sys
 🛡️ 18.08 - FIX ANTI-DETECT SYSTEM!
 
 🛡️ 19.08 - NEW FEATURES! FIX - AIMBOT!
+
+🛡️ 21.08 - NEW UPDATE!
+
 ---
 
 ## || 📖 About 
